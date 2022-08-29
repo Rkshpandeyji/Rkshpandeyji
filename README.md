@@ -1,7 +1,7 @@
 Hi 👋 My name is Rakesh Pandey
 ==============================
 
-Web Developer and Designar
+full stack Developer 
 --------------------------
 
 An aspiring software engineer with knowledge in software end practices such as coding, testing, code reviews, code comments, etc. And continuous learner of new technologies, strategies, and tools.
