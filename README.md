@@ -1,70 +1,55 @@
-<h1 align="center">Hi 👋, I'm Rakesh Pandey</h1>
-<h3 align="center">Full Stack Developer | Open Source Contributor | Tech Blogger</h3>
+<!-- Profile Header -->
+<h1 align="center">Welcome to my Profile! 👋</h1>
 
 <p align="center">
-  <a href="https://rakesh-pandey.netlify.app" target="_blank">
-    🌐 Portfolio
-  </a> • 
-  <a href="https://linkedin.com/in/rakesh-pandey" target="_blank">
-    💼 LinkedIn
-  </a> • 
+  <img src="https://img.shields.io/badge/Software%20Developer-Full%20Stack-blueviolet?style=for-the-badge" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **Full Stack Development**  
+- 🌱 Learning **Cloud, DevOps, and Scalable Systems**  
+- 💬 Ask me about **React.js, Node.js, MySQL, ERP Systems**  
+- ⚡ Passionate about **clean code & automation**  
+
+---
+
+### 🛠️ Skills & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+### 🚀 Professional Experience
+- **Full Stack Developer @ CNV Consulting**  
+  🟢 ERP Systems (React + Node.js + MySQL)  
+  🟢 State Management with Redux & Context API  
+
+- **Full Stack Developer @ Silvergrey Technologies**  
+  🟢 Payroll & Commission Management Software  
+  🟢 REST APIs for HR & Finance systems  
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
   <a href="mailto:rkshpandeyji123@gmail.com">
-    📩 Email
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-</p>
-
----
-
-## 🚀 About Me
-- 🌍 Based in **India**, working globally on **scalable web applications**.  
-- 👨‍💻 Experienced in **JavaScript, React, Node.js, Laravel, Python, Django, SQL, and Cloud**.  
-- 📝 I share technical blogs on [TechEduWorld](https://techeduworld.com/_blog/).  
-- 📫 Reach me at **rkshpandeyji123@gmail.com**.  
-- 💡 Passionate about **problem-solving, performance optimization, and system design**.  
-
----
-
-## 🛠️ Skills & Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,laravel,python,django,java,mysql,postgres,oracle,git,github,figma,firebase,bootstrap,docker" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rkshpandeyji&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkshpandeyji&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkshpandeyji&theme=tokyonight" alt="GitHub Streak" height="180" />
-</p>
-
----
-
-## 🏆 Achievements & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rkshpandeyji&theme=onedark&row=1&column=6" alt="Trophies" />
-</p>
-
----
-
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/rakesh-pandey" target="blank"><img src="https://img.shields.io/badge/-Rakesh%20Pandey-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://fb.com/rakesh.pandey" target="blank"><img src="https://img.shields.io/badge/-Rakesh%20Pandey-blue?style=flat&logo=Facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/goswami_pandey_07" target="blank"><img src="https://img.shields.io/badge/-@goswami_pandey_07-E4405F?style=flat&logo=Instagram&logoColor=white" /></a>
-</p>
-
----
-
-## ☕ Support My Work
-<p>
-  <a href="https://www.buymeacoffee.com/RAKESHPANDEY" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
+  <a href="https://linkedin.com/in/rakesh-pandey">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://ko-fi.com/RAKESHPANDEY" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45" />
+  <a href="https://github.com/Rkshpandeyji">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://rakeshdev.epizy.com">
+    <img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white&style=for-the-badge" />
   </a>
 </p>
